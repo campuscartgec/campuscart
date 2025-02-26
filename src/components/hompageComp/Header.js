@@ -19,6 +19,7 @@ const Header = () => {
               </button>
             </div>
             <div className="text-center">
+              <p className="text-danger">This is a protype website!</p>
               <h1 className="display-4 fw-bold mb-5">
                 Learn, Earn, and Grow Together!&nbsp;
                 <span className="underline"></span>
