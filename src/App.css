@@ -1,38 +1,59 @@
-.App {
-  text-align: center;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+.clean-block features {
+  padding: 50px 0;
+}
+.clean-block.slider.dark {
+  background-color: #fdfbfb;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px; /* Add margin to display after navbar */
+  width: 100%; /* Make the slider take full width */
+  max-width: 100%; /* Set the maximum width to 100% for full width */
+  height: auto; /* Adjust height automatically */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.clean-block.slider.dark img {
+  width: 100%; /* Make the image take full width */
+  height: auto; /* Adjust height automatically */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.text-info {
+  margin-top: 20px; /* Adjust the margin as needed */
+}
+.col-md-5.feature-box {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px 0; /* Adjusted margin to increase space between boxes */
+  margin-right: 20px; /* Added space between boxes in one row */
+  background-color: #f8f9fa; /* Default background color */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.col-md-5.feature-box:nth-child(1) {
+  background-color: #ffcccc; /* Color for the first box */
 }
 
-.App-link {
-  color: #61dafb;
+.col-md-5.feature-box:nth-child(2) {
+  background-color: #ccffcc; /* Color for the second box */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.col-md-5.feature-box:nth-child(3) {
+  background-color: #ccccff; /* Color for the third box */
+}
+
+.col-md-5.feature-box:nth-child(4) {
+  background-color: #ffffcc; /* Color for the fourth box */
+}
+
+.col-md-5.feature-box:nth-child(5) {
+  background-color: #ffccff; /* Color for the fifth box */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
