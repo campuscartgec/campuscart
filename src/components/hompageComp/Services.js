@@ -14,15 +14,15 @@ const Services = () => {
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
                     </div>
                     <div className="col-md-5 feature-box"><i className="icon-star icon"></i>
-                        <h4>Sell a product</h4>
+                        <h4>Marketplace</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
                     </div>
                     <div className="col-md-5 feature-box"><i className="icon-star icon"></i>
-                        <h4>Buy a product</h4>
+                        <h4>Student communites and groups</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
                     </div>
                     <div className="col-md-5 feature-box"><i className="icon-star icon"></i>
-                        <h4>Skill boost</h4>
+                        <h4>Carier guidence</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
                     </div>
                 </div>
