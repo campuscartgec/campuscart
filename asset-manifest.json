@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/campuscart/static/css/main.25924394.css",
+    "main.js": "/campuscart/static/js/main.1e56408e.js",
+    "static/js/453.d430e013.chunk.js": "/campuscart/static/js/453.d430e013.chunk.js",
+    "static/media/image1.png": "/campuscart/static/media/image1.219b7d47f9f14a659f23.png",
+    "static/media/image4.png": "/campuscart/static/media/image4.8c2eff4e931c6d4819c9.png",
+    "static/media/image3.png": "/campuscart/static/media/image3.b2d0485550ff2a6a5e75.png",
+    "static/media/image2.png": "/campuscart/static/media/image2.778c957b298b9bb6a952.png",
+    "static/media/logo.png": "/campuscart/static/media/logo.87aa7a31b28d526e17c0.png",
+    "index.html": "/campuscart/index.html",
+    "main.25924394.css.map": "/campuscart/static/css/main.25924394.css.map",
+    "main.1e56408e.js.map": "/campuscart/static/js/main.1e56408e.js.map",
+    "453.d430e013.chunk.js.map": "/campuscart/static/js/453.d430e013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25924394.css",
+    "static/js/main.1e56408e.js"
+  ]
+}
