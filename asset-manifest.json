@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/campuscart/static/css/main.25924394.css",
-    "main.js": "/campuscart/static/js/main.1e56408e.js",
+    "main.css": "/campuscart/static/css/main.490d7d67.css",
+    "main.js": "/campuscart/static/js/main.0a9e3811.js",
     "static/js/453.d430e013.chunk.js": "/campuscart/static/js/453.d430e013.chunk.js",
-    "static/media/image1.png": "/campuscart/static/media/image1.219b7d47f9f14a659f23.png",
-    "static/media/image4.png": "/campuscart/static/media/image4.8c2eff4e931c6d4819c9.png",
-    "static/media/image3.png": "/campuscart/static/media/image3.b2d0485550ff2a6a5e75.png",
-    "static/media/image2.png": "/campuscart/static/media/image2.778c957b298b9bb6a952.png",
-    "static/media/logo.png": "/campuscart/static/media/logo.87aa7a31b28d526e17c0.png",
+    "static/media/p4.png": "/campuscart/static/media/p4.beaee172238337b423db.png",
+    "static/media/p2.png": "/campuscart/static/media/p2.3cb2a991c4f6ecf563f4.png",
+    "static/media/arduino.png": "/campuscart/static/media/arduino.fa5cf1cffa5f413121c6.png",
+    "static/media/p3.png": "/campuscart/static/media/p3.f251c4e5f1a47eca8ad6.png",
+    "static/media/book.png": "/campuscart/static/media/book.110246d1332dfeea872b.png",
+    "static/media/p1.png": "/campuscart/static/media/p1.663ba11c3c2f98662151.png",
+    "static/media/bag.png": "/campuscart/static/media/bag.014cac99204104c5375d.png",
+    "static/media/calculator.png": "/campuscart/static/media/calculator.0531bd5c88efd9684db6.png",
+    "static/media/laptop.png": "/campuscart/static/media/laptop.d7f2c578e82cc837d971.png",
+    "static/media/phone.png": "/campuscart/static/media/phone.ad693ad9180ae8ccf156.png",
     "index.html": "/campuscart/index.html",
-    "main.25924394.css.map": "/campuscart/static/css/main.25924394.css.map",
-    "main.1e56408e.js.map": "/campuscart/static/js/main.1e56408e.js.map",
+    "main.490d7d67.css.map": "/campuscart/static/css/main.490d7d67.css.map",
+    "main.0a9e3811.js.map": "/campuscart/static/js/main.0a9e3811.js.map",
     "453.d430e013.chunk.js.map": "/campuscart/static/js/453.d430e013.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25924394.css",
-    "static/js/main.1e56408e.js"
+    "static/css/main.490d7d67.css",
+    "static/js/main.0a9e3811.js"
   ]
 }
