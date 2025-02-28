@@ -82,30 +82,7 @@ const Navbar = () => {
                 </li>
               </ul>
             </li>
-            <li className="nav-item dropdown">
-              <a
-                className="nav-link dropdown-toggle text-white"
-                href="/features.html"
-                id="freelanceDropdown"
-                role="button"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
-              >
-                Carrier guidance
-              </a>
-              <ul className="dropdown-menu" aria-labelledby="freelanceDropdown">
-                <li>
-                  <a className="dropdown-item" href="/subpage3.html">
-                    Subpage 3
-                  </a>
-                </li>
-                <li>
-                  <a className="dropdown-item" href="/subpage4.html">
-                    Subpage 4
-                  </a>
-                </li>
-              </ul>
-            </li>
+           
             <li className="nav-item dropdown">
               <a
                 className="nav-link dropdown-toggle text-white"
