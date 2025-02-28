@@ -24,7 +24,7 @@ const Header = () => {
                 Learn, Earn, and Grow Together!&nbsp;
                 <span className="underline"></span>
               </h1>
-              <p className="fs-5 text-muted mb-5">
+              <p className="fs-5  mb-5">
                 Our platform aims to empower college students in Kerala by
                 providing a dedicated marketplace where they can earn money
                 through freelancing and buy/sell educational tools at affordable
