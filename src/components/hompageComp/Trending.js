@@ -1,12 +1,12 @@
 import React from 'react';
-import image1 from '../assets/img/scenery/image1.png';
-import image4 from '../assets/img/scenery/image2.png';
-import image6 from '../assets/img/scenery/image3.png';
+import image1 from '../assets/img/posters/p2.png';
+import image4 from '../assets/img/posters/p3.png';
+import image6 from '../assets/img/posters/p4.png';
 
 
 function Trending() {
     return (
-        <section className="clean-block slider dark">
+        <section className="clean-block slider bg-dark">
             <div className="container">
                 <div className="block-heading">
                     <h2 className="text-info">Advertisement</h2>

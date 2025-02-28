@@ -2,11 +2,11 @@ import React from 'react';
 
 const TopFreelancers = () => {
     return (
-        <section class="topfreelancers">
+        <section class="topfreelancers bg-dark">
         <section class="clean-block clean-pricing dark">
             <div class="container">
                 <div class="block-heading">
-                    <h2 class="text-info">Top freelacers of the weak</h2>
+                    <h2 class="text-info clr-dark ">Top freelacers of the weak</h2>
                     
                 </div>
                 <div class="row justify-content-center">

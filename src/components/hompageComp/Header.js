@@ -1,9 +1,9 @@
 import React from "react";
-import headerImg from "../assets/img/tech/image4.png";
+import headerImg from "../assets/img/posters/p1.png";
 
 const Header = () => {
   return (
-    <header className="pt-5">
+    <header className="bg-dark text-w ">
       <div className="container pt-4 pt-xl-5">
         <div className="row pt-5">
           <div className="col-md-8 text-center text-md-start mx-auto">

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Services = () => {
     return (
-        <section className="clean-block features">
+        <section className="clean-block features bg-dark text-white">
             <div className="container">
                 <div className="block-heading">
                     <h2 className="text-info">Services</h2>

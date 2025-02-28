@@ -1,11 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logoImg from "./assets/img/logo.png";
+import logoImg from "./assets/img/learnshop.png";
 
 const Navbar = () => {
   return (
     <nav
-      className="navbar navbar-expand-md fixed-top navbar-shrink py-3"
+      className="navbar navbar-expand-md fixed-top navbar-shrink   py-3"
       id="mainNav"
     >
       <div className="container">
@@ -17,26 +17,26 @@ const Navbar = () => {
             height="40"
             className="me-2"
           />
-          <span>CampusCart</span>
+          <span className="text-white">Learn Shop</span>
         </a>
         <button
           data-bs-toggle="collapse"
           className="navbar-toggler"
           data-bs-target="#navcol-1"
         >
-          <span className="visually-hidden">Toggle navigation</span>
+          <span className="visually-hidden text-white">Toggle navigation</span>
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navcol-1">
           <ul className="navbar-nav mx-auto">
             <li className="nav-item dropdow">
-              <a className="nav-link dropdown-toggle" href="/index.html">
+              <a className="nav-link dropdown-toggle text-white" href="/index.html">
                 Home
               </a>
             </li>
             <li className="nav-item dropdown">
               <a
-                className="nav-link dropdown-toggle"
+                className="nav-link dropdown-toggle text-white"
                 href="/features.html"
                 id="freelanceDr</li>opdown"
                 role="button"
@@ -60,7 +60,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item dropdown">
               <a
-                className="nav-link dropdown-toggle"
+                className="nav-link dropdown-toggle text-white"
                 href="/features.html"
                 id="freelanceDropdown"
                 role="button"
@@ -84,7 +84,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item dropdown">
               <a
-                className="nav-link dropdown-toggle"
+                className="nav-link dropdown-toggle text-white"
                 href="/features.html"
                 id="freelanceDropdown"
                 role="button"
@@ -108,7 +108,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item dropdown">
               <a
-                className="nav-link dropdown-toggle"
+                className="nav-link dropdown-toggle text-white"
                 href="/features.html"
                 id="freelanceDropdown"
                 role="button"
@@ -132,7 +132,7 @@ const Navbar = () => {
             </li>
           </ul>
           <a
-            className="btn btn-primary shadow"
+            className="btn btn-primary shadow text-white"
             role="button"
             href="signup.html"
           >
