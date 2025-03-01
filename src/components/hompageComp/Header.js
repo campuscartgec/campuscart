@@ -4,12 +4,12 @@ import headerImg from "../assets/img/posters/p1.png";
 const Header = () => {
   return (
     <header className="bg-dark text-w ">
-      <div className="container pt-4 pt-xl-5">
+      <div className="container pt-6 pt-xl-5">
         <div className="row pt-5">
           <div className="col-md-8 text-center text-md-start mx-auto">
-            <div className="input-group shadow-lg mb-3">
+            <div className="input-group shadow-lg mb-3 pt-5">
               <input
-                className="form-control"
+                className="form-control "
                 type="email"
                 name="email"
                 placeholder="Find a service"

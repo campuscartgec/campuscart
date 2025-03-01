@@ -10,7 +10,6 @@ function Trending() {
             <div className="container">
                 <div className="block-heading">
                     <h2 className="text-info">Advertisement</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna, dignissim nec auctor in, mattis vitae leo.</p>
                 </div>
                 <div className="carousel slide" data-bs-ride="carousel" id="carousel-1">
                     <div className="carousel-inner">
