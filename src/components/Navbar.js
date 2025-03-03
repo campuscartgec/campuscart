@@ -59,12 +59,12 @@ const Navbar = () => {
               <ul className="dropdown-menu" aria-labelledby="freelanceDropdown">
                 <li>
                   <a className="dropdown-item" href="/subpage3.html">
-                    Subpage 3
+                  subpage1
                   </a>
                 </li>
                 <li>
                   <a className="dropdown-item" href="/subpage4.html">
-                    Subpage 4
+                   subpage2
                   </a>
                 </li>
               </ul>
@@ -86,12 +86,12 @@ const Navbar = () => {
               >
                 <li>
                   <a className="dropdown-item " href="/subpage3.html">
-                    Subpage 3
+                    Subpage 1
                   </a>
                 </li>
                 <li>
                   <a className="dropdown-item" href="/subpage4.html">
-                    Subpage 4
+                    Subpage 2
                   </a>
                 </li>
               </ul>
@@ -111,12 +111,12 @@ const Navbar = () => {
               <ul className="dropdown-menu" aria-labelledby="freelanceDropdown">
                 <li>
                   <a className="dropdown-item" href="/subpage3.html">
-                    Subpage 3
+                    Subpage 1
                   </a>
                 </li>
                 <li>
                   <a className="dropdown-item" href="/subpage4.html">
-                    Subpage 4
+                    Subpage 2
                   </a>
                 </li>
               </ul>

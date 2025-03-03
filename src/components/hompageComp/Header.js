@@ -1,6 +1,6 @@
 import React from "react";
 import headerImg from "../assets/img/posters/p1.png";
-
+import leearnpromo from "../assets/videos/leearnpromo.mp4"
 const Header = () => {
   return (
     <header className="bg-dark text-w ">
@@ -42,11 +42,15 @@ const Header = () => {
           </div>
           <div className="col-12 col-lg-10 mx-auto">
             <div className="text-center position-relative">
-            <img
+              <img
                 className="img-fluid mx-auto d-block"
-                src={headerImg} // Replace with actual image path
+                src={headerImg}
                 alt="Meeting"
               />
+              <video className="mt-4" width="100%" controls autoPlay>
+                <source src={leearnpromo} type="video/mp4" />
+                Your browser does not support the video tag.
+                </video>
             </div>
           </div>
         </div>
